@@ -2,3 +2,4 @@ llama-index
 python-dotenv
 scikit-learn
 transformers
+fastapi
