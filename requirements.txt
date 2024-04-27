@@ -3,3 +3,10 @@ python-dotenv
 scikit-learn
 transformers
 fastapi
+langchain_community
+langchain_community 
+tiktoken 
+langchain-openai 
+langchainhub 
+chromadb
+langchain
