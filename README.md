@@ -1,4 +1,4 @@
-# Retrieval augmented generation (RAG) Basic
+# Retrieval-Augmented Generation (RAG) Basic
 
 ## How to use
 1. Virtual Environment
